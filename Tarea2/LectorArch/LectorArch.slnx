@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LectorArch/LectorArch.vcxproj" Id="b44d0411-625b-4e25-b0e0-7a6e7fb0d412" />
+</Solution>
